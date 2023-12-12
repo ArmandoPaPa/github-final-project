@@ -1,5 +1,5 @@
 # github-final-project
-Coursera - Front-Ent - Git course - Final Project
+Coursera - Front-End - Git course - Final Project
 
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
